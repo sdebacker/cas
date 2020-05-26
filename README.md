@@ -3,7 +3,7 @@ Experimental branch for testing out European Commission's CAS Authentication for
 
 This version of CAS, or Central Authentication Service, is experimental and should not be used for anything beyond testing.
 
-This package offers and abstraction of [European Commission's CAS Lib](https://github.com/ecphp/cas-lib) (created by Pol Dellaiera), an open-source *CAS client* adhering to strict PHP's PSR coding standards.  
+This package offers and abstraction of [European Commission's CAS Lib](https://github.com/ecphp/cas-lib) (created by Pol Dellaiera), an open-source *CAS client* adhering to PHP's strict PSR coding standards.  
 
 Check out the [wiki](https://github.com/subfission/cas/wiki) for further details.
 
